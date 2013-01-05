@@ -6,8 +6,8 @@ bl_info={
     "location":"View3D > Object Tools",
     "description":"Random materials",
     "category":"Object",
-    "wiki_url":"",
-    "tracker_url":""}
+    "wiki_url":"https://github.com/AndrewLavric/Random_Materials.git",
+    "tracker_url":"https://github.com/AndrewLavric/Random_Materials.git"}
 
 import bpy
 import random
