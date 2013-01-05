@@ -1,7 +1,7 @@
 bl_info={
     "name":"Random materials",
     "author":"Andrew Lavric",
-    "version":(0,1),
+    "version":(0,2),
     "blender":(2,6,5),
     "location":"View3D > Object Tools",
     "description":"Random materials",
